@@ -55,4 +55,11 @@ console.log(carrinho); // Mostra o carrinho com os itens
 
 
 ```
+## Limpar Dados
+```
+// Remover um item do LocalStorage
+localStorage.removeItem('nome');
 
+// Limpar todo o LocalStorage
+localStorage.clear();
+```
