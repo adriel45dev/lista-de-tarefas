@@ -64,4 +64,4 @@ localStorage.removeItem('nome');
 localStorage.clear();
 ```
 ## Site
-(https://lista-js.netlify.app)[https://lista-js.netlify.app/]
+[lista-js.netlify.app](https://lista-js.netlify.app/)
