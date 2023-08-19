@@ -63,3 +63,5 @@ localStorage.removeItem('nome');
 // Limpar todo o LocalStorage
 localStorage.clear();
 ```
+## Site
+(https://lista-js.netlify.app)[https://lista-js.netlify.app/]
